@@ -1,6 +1,6 @@
 # ⚡ Avengers Image Gallery ⚡
 
-🚀 Live Demo
+**🚀 Live Demo**
 
 **[View Live Demo Here](https://leilas25.github.io/Avengers-gallery/)**
 
