@@ -2,7 +2,7 @@
 
 **🚀 Live Demo**
 
-**[View Live Demo Here](https://leilas25.github.io/Avengers-gallery/)**
+**[View Live Demo Here](https://leilas25.github.io/Avengers-Gallery/)**
 
 ## ✨ Project Overview
 
